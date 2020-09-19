@@ -2,3 +2,4 @@ master1
 develop
 feature-some 3
 release-1.0
+hotfix 5
